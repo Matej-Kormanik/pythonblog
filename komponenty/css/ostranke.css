@@ -1,0 +1,17 @@
+#obsahOkraj .titulka {
+    font-weight: bold;
+}
+#obsahOkraj .titulka {
+    font-size: 130%;
+}
+
+
+#obsahOkraj .hello {
+     width: 550px;
+     height: 65px;
+     margin-top: 20px;
+ }
+#obsahOkraj .logo {
+    margin: 0 auto;
+    margin-left: 200px;
+}

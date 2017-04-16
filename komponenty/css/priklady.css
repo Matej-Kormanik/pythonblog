@@ -1,0 +1,155 @@
+
+#obsahOkraj #kod {
+    background-color: whitesmoke;
+    font-weight: bold;
+    font-size: 120%;
+    margin-right: 40px;
+    margin-bottom: 0;
+   /* border-radius: 10px; */
+}
+
+#obsahOkraj .vypis {
+    margin-top: 0;
+    padding: 3px 15px;
+    font-size: 95%;
+    font-weight: bold;
+    background: #f8f8f8;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+#obsahOkraj .komentiky {
+    margin: 30px 10px 20px 0px;
+
+
+}
+
+#obsahOkraj p {
+    margin-right: 40px;
+}
+/*-------------------------------*/
+#obsahOkraj .obrPr1 {
+    margin: 0;
+    padding: 0;
+}
+
+#obsahOkraj .definice1 {
+    margin-bottom: 5px;
+    padding-bottom: 0;
+}
+/*----------------------------*/
+
+#obsahOkraj #olpr8 {
+    margin-top: 3px;
+    margin-left: 0;
+}
+
+/*     komentare, formular
+
+#obsahOkraj #prikladNacitaj {
+    border-top: solid 1px black;
+    font-size: 90%;
+    margin-right: 40px;
+}
+
+#obsahOkraj #prikladNacitaj .komentar1 {
+    border-bottom: solid 1px black;
+    padding: 3px;
+    line-height: 20px;
+}
+
+#obsahOkraj #prikladForm {
+    font-size: 90%;
+    margin-top: 10px;
+}
+ */
+
+/*------	KNIHA NAVštev	------------ */
+#obsahOkraj .kontaktInput{
+    padding:5px;
+    border:1px dotted #999;
+    width:290px;
+    margin-bottom:8px;
+}
+#obsahOkraj label{
+    display:inline-block;
+    width:160px;
+}
+#obsahOkraj .okHlaska{
+    border:1px solid #060;
+    width: 270px;
+    padding:8px;
+    line-height:17px;
+    background-color:yellow;
+    text-align:center;
+    border-radius: 10px;
+    color:#060;
+    margin-bottom:8px;
+    margin-left: 280px;
+    margin-top: 20px;
+
+}
+#obsahOkraj .chybovaHlaska{
+    border:1px solid #900;
+    padding:10px;
+    line-height:20px;
+    background-color:#FCF;
+    text-align:center;
+    color:#900;
+    margin-bottom:8px;
+}
+
+#obsahOkraj .prispevek{
+    /* width:820px; */
+    margin-right: 40px;
+    border:1px solid #999;
+    margin-top:10px;
+    margin-bottom:7px;
+    border-radius:5px;
+    color:#555;
+}
+#obsahOkraj .horniRadek{
+    background-color:#ccc;
+    height:20px;
+    border-radius:5px;
+}
+#obsahOkraj .pridal{
+    float:left;
+    padding-left:5px;
+}
+#obsahOkraj .prispevek strong{
+    color:#222;
+}
+#obsahOkraj .datum{
+    text-align:right;
+    float:right;
+    clear:right;
+    padding-right:5px;
+    color:#555;
+}
+#obsahOkraj .textPrispevku{
+    padding:8px;
+    color:#333;
+    clear:both;
+}
+#obsahOkraj .knihanavstev{
+    text-align:center;
+    margin-top:30px;
+    border-top:1px dotted #999;
+    padding-top:15px;
+    margin-right: 40px;
+}
+#obsahOkraj .knihanavstev textarea{
+    height:100px;
+}
+/*       obrazky loga       */
+#obsahOkraj .logoLang {
+    height: 100px;
+    width: 100px;
+    border: 1px solid silver;
+    border-radius: 8px;
+    background-color: lightblue;
+    margin-right: 10px;
+}
+#obsahOkraj .logoLang:hover {
+    border: 1px solid black;
+}
